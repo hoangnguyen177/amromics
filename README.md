@@ -1,4 +1,4 @@
-# AMomics   
+# AMRomics   
 
 
 ## Welcome to AMRomics
